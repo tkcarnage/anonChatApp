@@ -1,6 +1,6 @@
 # Anonymous Chat App
 
-[[https://github.com/tkcarnage/anonChatApp/blob/master/images/inuse.png|alt=anonchatapp]]
+[https://github.com/tkcarnage/anonChatApp/blob/master/images/inuse.png|alt=anonchatapp]
 
 ## Description:
 Anonymous Chat App that allows users to chat anonymously.
