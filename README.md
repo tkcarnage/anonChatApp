@@ -3,7 +3,7 @@
 ![anonchapapp](https://github.com/tkcarnage/anonChatApp/blob/master/images/inuse.png)
 
 ## Description:
-Anonymous Chat App that allows users to chat anonymously.
+Chat application that allows users to chat anonymously.
 
 ## Features: 
 * Automatic username creation
