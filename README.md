@@ -8,6 +8,7 @@ Chat application that allows users to chat anonymously.
 ## Features: 
 * Automatic username creation
 * Access to previous chat logs
+* Users can tell when someone enters the chat room
 * Users can tell when someone is typing
 
 ## Tech Stack Used:
