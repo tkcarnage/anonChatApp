@@ -13,6 +13,8 @@ Anonymous Chat App that allows users to chat anonymously.
 * React to dynamically change the front-end depending on user input
 
 # Directions to run this program:
-1. git clone
-2. npm install
-3. npm start
+1. git clone https://github.com/tkcarnage/anonChatApp.git
+1. Install [Node.js](https://nodejs.org/en/)
+1. cd into project directory 
+1. npm install
+1. npm start
